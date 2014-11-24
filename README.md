@@ -9,4 +9,9 @@ Are you a frontend dev?
 HELP: https://help.github.com/articles/set-up-git/
 
 1. Kloniraj ovaj repozitorij kod sebe lokalno i napravi inicijalni commit i push<br>
-HELP: <b>git pull origin master</b> , <b>git commit -a -m 'initial commit'</b>
+HELP:<br>
+<b>git pull origin master</b><br>
+<b>git commit -a -m 'initial commit'</b><br>
+<b>git push origin master</b>
+
+2.
