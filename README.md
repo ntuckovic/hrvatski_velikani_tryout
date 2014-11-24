@@ -14,4 +14,4 @@ HELP:<br>
 <b>git commit -a -m 'initial commit'</b><br>
 <b>git push origin master</b>
 
-2.
+2. Skini neki frontend framework, postavi iskoristivu <b>index.html</b> stranicu. Postavi za title <b>Hrvatski Velikani</b> i za prvi h1 title na vrhu stranice isti naslov.
