@@ -39,7 +39,7 @@ Bar chart primjer: http://c3js.org/samples/axes_x_tick_rotate.html
 			var organizacija = obj.organization;
 
 			// ovo dolje je već appendanje
-			$("#slider").append("<div class='item'>"+ <img src='img/"+ slika + "' />" + "<div>" + ime + "</div>" + "<div>" + organizacija + "</div>" + "</div>" );
+			$("#slider").append("<div class='item'>"+ "<img src='img/"+ slika + "' />" + "<div>" + ime + "</div>" + "<div>" + organizacija + "</div>" + "</div>" );
 
 		});
 	```
