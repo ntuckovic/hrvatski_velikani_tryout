@@ -33,7 +33,7 @@ Bar chart primjer: http://c3js.org/samples/axes_x_tick_rotate.html
 
 5. Učitaj ispravno neki dostupan js slider plugin element na stranicu, te za drugi "velikani_gallery.json" u <b>success</b> ili <b>done</b> funkciji ajax poziva u slider <b>append</b>-aj ili na drugi način ubaci iteme iz loadanog json filea na način da u svakom slideu prikažeš sliku, ime osobe i organizaciju kojoj pripada. Sva tri itema su u json fileu navedeni za svaki objekt, pa dok se to učita ko npr. <i>data</i> u <b>success</b> ili <b>done</b> funkciju mogu biti dostupni na način:<br>
 	```javascript
-			$(data).each(function(i,obj){
+		$(data).each(function(i,obj){
 			var ime = obj.full_name;
 			var slika = obj.img;
 			var organizacija = obj.organization;
@@ -45,4 +45,6 @@ Bar chart primjer: http://c3js.org/samples/axes_x_tick_rotate.html
 	```
 	<br>
 Hint: vidi navedeni json file i njegovu strukturu<br>
-HELP:
+HELP:<br>
+http://owlgraphic.com/owlcarousel/demos/json.html<br>
+http://getbootstrap.com/javascript/#carousel
