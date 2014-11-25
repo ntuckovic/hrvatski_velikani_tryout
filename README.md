@@ -55,6 +55,7 @@ http://stackoverflow.com/a/5437611
 
 
 Dodatne preporuke:<br>
+
 1. Koristiti neki "quick-setup" dev server, tipa wamp, xamp, http-server:<br>
 https://github.com/nodeapps/http-server<br>
 http://www.wampserver.com/en/
