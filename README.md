@@ -57,8 +57,8 @@ http://stackoverflow.com/a/5437611
 Dodatne preporuke:<br>
 1. Koristiti neki "quick-setup" dev server, tipa wamp, xamp, http-server:<br>
 https://github.com/nodeapps/http-server<br>
-http://www.wampserver.com/en/<br>
+http://www.wampserver.com/en/
 
-2. Sve što nije jasno može se potražiti i saznati na: http://www.google.com <br>
+2. Sve što nije jasno može se potražiti i saznati na: http://www.google.com
 
 3. Sve što se nezna vezano za web development može se pitati, dobiti odogovor i naučiti na: http://stackoverflow.com (topla preporuka za registraciju) <br>
